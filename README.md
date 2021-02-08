@@ -1,3 +1,7 @@
+# Demo
+Check out the site at this address:
+http://my-weather-app-api.s3-website.eu-west-2.amazonaws.com/
+
 # ApiV1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
